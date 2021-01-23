@@ -17,7 +17,7 @@ const BannerContacto = () => {
               </div>
             </div>
           </div>
-          <form className="seo-report-form">
+          {/* <form className="seo-report-form">
             <div className="row m-0 justify-content-center seo-contact mb-4">
               <div className="col-lg-4 col-md-4 col-sm-12 p-0">
                 <div className="form-row">
@@ -48,7 +48,7 @@ const BannerContacto = () => {
                 </div>
               </div>
             </div>
-          </form>
+          </form> */}
         </div>
         <div className="ht-80"></div>
       </section>
@@ -73,7 +73,7 @@ const BannerContacto = () => {
                   />
                 </div>
                 <div className="partner-box-caption">
-                  <h5>Google Ltd</h5>
+                  <h5>Whatsapp</h5>
                   <span className="partner-info">Joined June 2010</span>
                 </div>
               </div>
@@ -89,7 +89,7 @@ const BannerContacto = () => {
                   />
                 </div>
                 <div className="partner-box-caption">
-                  <h5>Asana Inc</h5>
+                  <h5>Llamada</h5>
                   <span className="partner-info">Joined May 2010</span>
                 </div>
               </div>
@@ -105,7 +105,7 @@ const BannerContacto = () => {
                   />
                 </div>
                 <div className="partner-box-caption">
-                  <h5>Dropbox Ltd</h5>
+                  <h5>Email</h5>
                   <span className="partner-info">Joined April 2010</span>
                 </div>
               </div>
