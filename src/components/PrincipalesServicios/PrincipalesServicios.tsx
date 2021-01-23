@@ -29,7 +29,7 @@ const PrincipalesServicios = () => {
                   className="img-responsive"
                   alt=""
                 />
-                <h4>Market research</h4>
+                <h4>Trasteos</h4>
                 <p>
                   At vero eos et accusamus et iusto odio dignissimos ducimus qui
                   blanditiis praesentium.
@@ -48,7 +48,7 @@ const PrincipalesServicios = () => {
                   className="img-responsive"
                   alt=""
                 />
-                <h4>Keyword targeting</h4>
+                <h4>Acarreos</h4>
                 <p>
                   At vero eos et accusamus et iusto odio dignissimos ducimus qui
                   blanditiis praesentium.
@@ -67,7 +67,7 @@ const PrincipalesServicios = () => {
                   className="img-responsive"
                   alt=""
                 />
-                <h4>Email Marketing</h4>
+                <h4>Transporte de elementos</h4>
                 <p>
                   At vero eos et accusamus et iusto odio dignissimos ducimus qui
                   blanditiis praesentium.

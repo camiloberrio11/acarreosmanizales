@@ -28,14 +28,11 @@ const ListadoServicios = () => {
                     <img src="https://via.placeholder.com/300x300" alt="" />
                   </div>
                   <div className="large-features-2-content">
-                    <h4>Market Analysis</h4>
+                    <h4>Tus elementos seguros</h4>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have suffered.
                     </p>
-                    <a href="#!" className="read-more">
-                      Read More<i className="ti-arrow-right"></i>
-                    </a>
                   </div>
                 </div>
               </div>
@@ -52,14 +49,11 @@ const ListadoServicios = () => {
                     <img src="https://via.placeholder.com/300x300" alt="" />
                   </div>
                   <div className="large-features-2-content">
-                    <h4>Email Marketing</h4>
+                    <h4>Vehículos modernos</h4>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have suffered.
                     </p>
-                    <a href="#!" className="read-more">
-                      Read More<i className="ti-arrow-right"></i>
-                    </a>
                   </div>
                 </div>
               </div>
@@ -76,14 +70,11 @@ const ListadoServicios = () => {
                     <img src="https://via.placeholder.com/300x300" alt="" />
                   </div>
                   <div className="large-features-2-content">
-                    <h4>Off Page SEO</h4>
+                    <h4>Vehículos con espacio apropiado</h4>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have suffered.
                     </p>
-                    <a href="#!" className="read-more">
-                      Read More<i className="ti-arrow-right"></i>
-                    </a>
                   </div>
                 </div>
               </div>
@@ -100,14 +91,11 @@ const ListadoServicios = () => {
                     <img src="https://via.placeholder.com/300x300" alt="" />
                   </div>
                   <div className="large-features-2-content">
-                    <h4>Keyword Analysis</h4>
+                    <h4>Disponibilidad</h4>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have suffered.
                     </p>
-                    <a href="#!" className="read-more">
-                      Read More<i className="ti-arrow-right"></i>
-                    </a>
                   </div>
                 </div>
               </div>
@@ -124,14 +112,11 @@ const ListadoServicios = () => {
                     <img src="https://via.placeholder.com/300x300" alt="" />
                   </div>
                   <div className="large-features-2-content">
-                    <h4>Content Marketing</h4>
+                    <h4>Flexibilidad</h4>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have suffered.
                     </p>
-                    <a href="#!" className="read-more">
-                      Read More<i className="ti-arrow-right"></i>
-                    </a>
                   </div>
                 </div>
               </div>
@@ -148,14 +133,11 @@ const ListadoServicios = () => {
                     <img src="https://via.placeholder.com/300x300" alt="" />
                   </div>
                   <div className="large-features-2-content">
-                    <h4>On Page SEO</h4>
+                    <h4>Seguridad</h4>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have suffered.
                     </p>
-                    <a href="#!" className="read-more">
-                      Read More<i className="ti-arrow-right"></i>
-                    </a>
                   </div>
                 </div>
               </div>
