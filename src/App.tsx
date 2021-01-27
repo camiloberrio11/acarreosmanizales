@@ -1,6 +1,6 @@
 import React from 'react';
 import BannerContacto from './components/BannerContacto/BannerContacto';
-// import BannerPrincipal from './components/BannerPrincipal/BannerPrincipal';
+import { Helmet } from 'react-helmet';
 import BotonWhatsapp from './components/BotonWhatsapp/BotonWhatsapp';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
@@ -10,9 +10,17 @@ import PrincipalesServicios from './components/PrincipalesServicios/PrincipalesS
 const App = () => {
   return (
     <div id="main-wrapper">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Acarreos Manizales | Website</title>
+        <meta
+          name="description"
+          content="this page is trasteos manizales and acarreos manizales, economicos, baratos en manizales"
+        />
+        <link rel="canonical" href="https://acarreosmanizales.netlify.app/" />
+      </Helmet>
       <Header />
       <BotonWhatsapp />
-      {/* <BannerPrincipal /> */}
       <PrincipalesServicios />
       <BannerContacto />
       <ListadoServicios />
