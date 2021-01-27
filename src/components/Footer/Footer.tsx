@@ -49,7 +49,7 @@ const Footer = () => {
                   <h4 className="widget-title">Trasteos Manizales</h4>
                   <p>Manizales, Colombia</p>
                   <p>trasteosmanizales.com@gmail.com</p>
-                  <p>3125156261</p>
+                  <p>+57 3215524272</p>
                 </div>
               </div>
 
@@ -64,17 +64,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a href="#!">
-                        <i className="fa fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!">
                         <i className="fa fa-instagram"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!">
-                        <i className="fa fa-linkedin"></i>
                       </a>
                     </li>
                   </ul>
