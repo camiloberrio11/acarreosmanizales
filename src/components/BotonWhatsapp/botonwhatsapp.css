@@ -1,6 +1,6 @@
 .btn-whatsapp {
   position: fixed;
-  z-index: 4;
+  z-index: 10;
   right: 0px;
   bottom: 50%;
 }

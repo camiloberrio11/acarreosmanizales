@@ -8,7 +8,7 @@ const PrincipalesServicios = () => {
           <div className="row">
             <div className="col text-center">
               <div className="sec-heading mx-auto">
-                <h2>Principales servicios</h2>
+                <h2 className="animate__animated animate__backInRight">Principales servicios</h2>
                 <p>
                   Nos caracterizamos por ser los mejores realizando labores de
                   trasteos y acarreos, contamos con muchisimos años de
