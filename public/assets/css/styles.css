@@ -1178,6 +1178,9 @@ html body .b-all {
 .theme-cl {
   color: #fe2a5c !important;
 }
+.theme-cl-blue {
+  color: #6563FF !important;
+}
 html body .text-blue {
   color: #02bec9;
 }
@@ -4910,8 +4913,7 @@ a.read-more i,
 }
 .large-features-2:hover h4,
 .large-features-2:focus h4 {
-  /* color: #fe2a5c; */
-  color: #CCA137;
+  color: #6563FF;
 }
 
 }

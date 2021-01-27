@@ -38,7 +38,7 @@ const BannerContacto = () => {
                   <img
                     src="https://res.cloudinary.com/dupegtamn/image/upload/v1611439383/trasteosbaratos/Logo-WhatsApp_dt9mu3.png"
                     className="img-fluid mx-auto"
-                    alt=""
+                    alt="icon-whatsapp"
                   />
                 </div>
                 <div className="partner-box-caption">
@@ -61,7 +61,7 @@ const BannerContacto = () => {
                   <img
                     src="https://res.cloudinary.com/dupegtamn/image/upload/v1611711616/trasteosbaratos/call_ga301n.png"
                     className="img-fluid mx-auto"
-                    alt=""
+                    alt="icon-llamada"
                   />
                 </div>
                 <div className="partner-box-caption">
@@ -84,7 +84,7 @@ const BannerContacto = () => {
                   <img
                     src="https://res.cloudinary.com/dupegtamn/image/upload/v1611711754/trasteosbaratos/mail_q3dh7o.png"
                     className="img-fluid mx-auto"
-                    alt=""
+                    alt="icon-correo"
                   />
                 </div>
                 <div className="partner-box-caption">

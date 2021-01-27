@@ -29,7 +29,7 @@ const PrincipalesServicios = () => {
                 <img
                   src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_350,w_350/v1611713153/trasteosbaratos/escritorio-cajas_gsny2u.jpg"
                   className="img-responsive"
-                  alt=""
+                  alt="icon-trasteos"
                 />
                 <h4>Trasteos</h4>
                 <p>
@@ -48,7 +48,7 @@ const PrincipalesServicios = () => {
                 <img
                   src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_350,w_350/v1611713156/trasteosbaratos/camion-cajas_rho68o.jpg"
                   className="img-responsive"
-                  alt=""
+                  alt="icon-acarreos"
                 />
                 <h4>Acarreos</h4>
                 <p>
@@ -68,7 +68,7 @@ const PrincipalesServicios = () => {
                 <img
                   src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_350,w_350/v1611713527/trasteosbaratos/camion-trans_xlwopm.jpg"
                   className="img-responsive"
-                  alt=""
+                  alt="icon-transporte"
                 />
                 <h4>Transporte de elementos</h4>
                 <p>

@@ -1,0 +1,17 @@
+.btn-whatsapp {
+  position: fixed;
+  z-index: 4;
+  right: 0px;
+  bottom: 50%;
+}
+.img-whatsapp {
+  margin-right: 10px;
+  width: 65px;
+}
+
+@media (max-width: 500px) {
+  .img-whatsapp {
+    width: 50px;
+    margin-right: 5px;
+  }
+}

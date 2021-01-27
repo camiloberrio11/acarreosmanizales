@@ -26,7 +26,10 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/lock_kro6ji.png" alt="" />
+                    <img
+                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/lock_kro6ji.png"
+                      alt="icon-seguros"
+                    />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Tus elementos seguros</h4>
@@ -48,7 +51,10 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/truck_rw6oab.png" alt="" />
+                    <img
+                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/truck_rw6oab.png"
+                      alt="icon-modernos"
+                    />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Vehículos modernos</h4>
@@ -69,7 +75,10 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712698/trasteosbaratos/box_mizaqp.png" alt="" />
+                    <img
+                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712698/trasteosbaratos/box_mizaqp.png"
+                      alt="icon-espacio-vehiculos"
+                    />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Vehículos con espacio apropiado</h4>
@@ -91,7 +100,10 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712698/trasteosbaratos/watch_s9bn87.png" alt="" />
+                    <img
+                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712698/trasteosbaratos/watch_s9bn87.png"
+                      alt="icon-disponibilidad"
+                    />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Disponibilidad</h4>
@@ -113,7 +125,10 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img src="https://res.cloudinary.com/dupegtamn/image/upload/v1611712698/trasteosbaratos/music_swrml4.png" alt="" />
+                    <img
+                      src="https://res.cloudinary.com/dupegtamn/image/upload/v1611712698/trasteosbaratos/music_swrml4.png"
+                      alt="icon-flexibilidad"
+                    />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Flexibilidad</h4>
@@ -134,7 +149,10 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/lock_kro6ji.png" alt="" />
+                    <img
+                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/lock_kro6ji.png"
+                      alt="icon-seguridad"
+                    />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Seguridad</h4>
