@@ -43,7 +43,12 @@ const BannerContacto = () => {
                 </div>
                 <div className="partner-box-caption">
                   <h5>Whatsapp</h5>
-                  <a href="#!" className="partner-info">
+                  <a
+                    href="http://wa.me/+573215524272?text=Hola, buen día! Quisiera averiguar sobre un acarreo, me puedes dar información por favor"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="partner-info"
+                  >
                     Haz click para escribirnos
                   </a>
                 </div>
@@ -54,14 +59,19 @@ const BannerContacto = () => {
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
                   <img
-                    src="https://res.cloudinary.com/dupegtamn/image/upload/v1611439601/trasteosbaratos/logo-llamada_rxlmnq.png"
+                    src="https://res.cloudinary.com/dupegtamn/image/upload/v1611711616/trasteosbaratos/call_ga301n.png"
                     className="img-fluid mx-auto"
                     alt=""
                   />
                 </div>
                 <div className="partner-box-caption">
                   <h5>Llamada</h5>
-                  <a href="#!" className="partner-info">
+                  <a
+                    href="tel:+573215524272"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="partner-info"
+                  >
                     Haz click para llamarnos
                   </a>
                 </div>
@@ -72,14 +82,19 @@ const BannerContacto = () => {
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
                   <img
-                    src="https://res.cloudinary.com/dupegtamn/image/upload/v1611439600/trasteosbaratos/logo-coreo_ulfzg2.jpg"
+                    src="https://res.cloudinary.com/dupegtamn/image/upload/v1611711754/trasteosbaratos/mail_q3dh7o.png"
                     className="img-fluid mx-auto"
                     alt=""
                   />
                 </div>
                 <div className="partner-box-caption">
                   <h5>Email</h5>
-                  <a href="#!" className="partner-info">
+                  <a
+                    href="mailto:camiloberriouribe@gmail.com"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="partner-info"
+                  >
                     Haz click para escribirnos
                   </a>
                 </div>

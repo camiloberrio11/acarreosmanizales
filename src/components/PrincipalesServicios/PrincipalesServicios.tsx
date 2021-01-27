@@ -10,8 +10,10 @@ const PrincipalesServicios = () => {
               <div className="sec-heading mx-auto">
                 <h2>Principales servicios</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Nos caracterizamos por ser los mejores realizando labores de
+                  trasteos y acarreos, contamos con muchisimos años de
+                  experiencia, aca te contamos un poco de lo que más hacemos en
+                  nuestro día a día.
                 </p>
               </div>
             </div>
@@ -25,14 +27,14 @@ const PrincipalesServicios = () => {
                 data-aos-duration="1200"
               >
                 <img
-                  src="https://via.placeholder.com/350x350"
+                  src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_350,w_350/v1611713153/trasteosbaratos/escritorio-cajas_gsny2u.jpg"
                   className="img-responsive"
                   alt=""
                 />
                 <h4>Trasteos</h4>
                 <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                  blanditiis praesentium.
+                  Los trasteos de cosas/pertenencias y objetos de entre un punto
+                  y el respectivo destino
                 </p>
               </div>
             </div>
@@ -44,14 +46,15 @@ const PrincipalesServicios = () => {
                 data-aos-duration="1200"
               >
                 <img
-                  src="https://via.placeholder.com/350x350"
+                  src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_350,w_350/v1611713156/trasteosbaratos/camion-cajas_rho68o.jpg"
                   className="img-responsive"
                   alt=""
                 />
                 <h4>Acarreos</h4>
                 <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                  blanditiis praesentium.
+                  Realizamos todo tipo de acarreos, contando con vehículos de
+                  todas las capacidades, lo cual permite cuidar y brindarte
+                  seguridad con cada elemento que decidas transportar.
                 </p>
               </div>
             </div>
@@ -63,14 +66,15 @@ const PrincipalesServicios = () => {
                 data-aos-duration="1200"
               >
                 <img
-                  src="https://via.placeholder.com/350x350"
+                  src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_350,w_350/v1611713527/trasteosbaratos/camion-trans_xlwopm.jpg"
                   className="img-responsive"
                   alt=""
                 />
                 <h4>Transporte de elementos</h4>
                 <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                  blanditiis praesentium.
+                  Sabemos que deseas cuidar tus elementos por eso contamos con
+                  un equipo que recoge y entrega todos tus elementos de forma
+                  segura y cuidadosa.
                 </p>
               </div>
             </div>

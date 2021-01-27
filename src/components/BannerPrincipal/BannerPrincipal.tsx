@@ -9,12 +9,10 @@ const BannerPrincipal: FC = (): ReactElement => {
           <div className="row">
             <div className="col-md-7">
               <div className="hero-content">
-                <h1 className="mb-4">
-                  Acarreos Manizales
-                </h1>
+                <h1 className="mb-4">Acarreos Manizales</h1>
                 <p className="theme-cl">
-                  Take my traffic quiz and get a customized advice that will
-                  walk you through how you can get more traffic.
+                  Somos líderes en el trasteo y acarreos de elementos,
+                  protegiendo cada uno de tus encomiendas de una forma segura.
                 </p>
               </div>
             </div>

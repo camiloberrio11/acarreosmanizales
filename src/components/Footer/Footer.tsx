@@ -14,13 +14,31 @@ const Footer = () => {
                   <h4 className="widget-title">Contacto</h4>
                   <ul className="footer-menu">
                     <li>
-                      <a href="#!">Whatsapp</a>
+                      <a
+                        href="http://wa.me/+573215524272"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Whatsapp
+                      </a>
                     </li>
                     <li>
-                      <a href="#!">Llamar</a>
+                      <a
+                        href="tel:+573215524272"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Llamar
+                      </a>
                     </li>
                     <li>
-                      <a href="#!">Correo</a>
+                      <a
+                        href="mailto:camiloberriouribe@gmail.com"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Correo
+                      </a>
                     </li>
                   </ul>
                 </div>
