@@ -44,7 +44,7 @@ const BannerContacto = () => {
                 <div className="partner-box-caption">
                   <h5>Whatsapp</h5>
                   <a
-                    href="http://wa.me/+573215524272?text=Hola, buen día! Quisiera averiguar sobre un acarreo, me puedes dar información por favor"
+                    href="http://wa.me/+573215524272?text=Hola, buen día! Estoy pendiente de realizar un acarreo y quisiera recibir más información. Gracias"
                     target="_blank"
                     rel="noreferrer"
                     className="partner-info"
