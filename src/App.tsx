@@ -13,6 +13,7 @@ const App = () => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Acarreos Manizales | Website</title>
+        <link rel="preload" />
         <meta
           name="description"
           content="this page is trasteos manizales and acarreos manizales, economicos, baratos en manizales"
