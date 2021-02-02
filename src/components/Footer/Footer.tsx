@@ -15,7 +15,7 @@ const Footer = () => {
                   <ul className="footer-menu">
                     <li>
                       <a
-                        href="http://wa.me/+573215524272"
+                        href="http://wa.me/+573186234572"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -24,7 +24,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="tel:+573215524272"
+                        href="tel:+573186234572"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -46,10 +46,10 @@ const Footer = () => {
 
               <div className="col-lg-3 col-md-6">
                 <div className="footer-widget">
-                  <h4 className="widget-title">Trasteos Manizales</h4>
+                  <h4 className="widget-title">Acarreos Manizales</h4>
                   <p>Manizales, Colombia</p>
                   <p>trasteosmanizales.com@gmail.com</p>
-                  <p>+57 3215524272</p>
+                  <p>+57 3186234572</p>
                 </div>
               </div>
 

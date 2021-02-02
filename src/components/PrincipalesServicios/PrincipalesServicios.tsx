@@ -66,7 +66,7 @@ const PrincipalesServicios = () => {
                 data-aos-duration="1200"
               >
                 <img
-                  src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_350,w_350/v1611713527/trasteosbaratos/camion-trans_xlwopm.jpg"
+                  src="https://res.cloudinary.com/dupegtamn/image/upload/v1612225254/trasteosbaratos/camionacarreos_oojkub.jpg"
                   className="img-responsive"
                   alt="icon-transporte"
                 />
