@@ -10,11 +10,11 @@ const Header = () => {
         </h2>
         <a
           className="animate__animated animate__backInDown partner-info phone-contact "
-          href="http://wa.me/+573186234572?text=Hola, buen día! Estoy pendiente de realizar un acarreo y quisiera recibir más información. Gracias"
+          href="http://wa.me/+573165373150?text=Hola, buen día! Estoy pendiente de realizar un acarreo y quisiera recibir más información. Gracias"
           target="_blank"
           rel="noreferrer"
         >
-          3186234572
+          3165373150
         </a>
       </div>
     </div>
