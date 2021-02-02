@@ -12,7 +12,7 @@ const App = () => {
     <div id="main-wrapper">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Acarreos Manizales | Website</title>
+        <title>Acarreos Manizales | Sitio web</title>
         <link rel="preload" />
         <meta
           name="description"
