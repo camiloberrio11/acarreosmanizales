@@ -18,7 +18,7 @@ const App = () => {
           name="description"
           content="this page is trasteos manizales and acarreos manizales, economicos, baratos en manizales"
         />
-        <link rel="canonical" href="https://acarreosmanizales.netlify.app/" />
+        <link rel="canonical" href="https://acarreosenmanizales.com/" />
       </Helmet>
       <Header />
       <BotonWhatsapp />
