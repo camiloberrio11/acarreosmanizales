@@ -16,7 +16,7 @@ const App = () => {
         <link rel="preload" />
         <meta
           name="description"
-          content="this page is trasteos manizales and acarreos manizales, economicos, baratos en manizales"
+          content="Acarreos, trasteos baratos y economicos en Manizales, Todo tipo de encomiendas y traslado de elementos. Servicio de mudanzas. Contacto: 318 623 4572"
         />
         <link rel="canonical" href="https://acarreosenmanizales.com/" />
       </Helmet>
