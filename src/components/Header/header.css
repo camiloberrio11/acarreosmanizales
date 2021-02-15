@@ -1,6 +1,6 @@
 .header-layout {
   width: 100%;
-  background-color: #003B77;
+  background-color: #557D1D;
   height: 100px;
   padding: 10px;
 }
@@ -19,6 +19,8 @@
   display: flex;
   justify-content: center;
   color: white;
+  font-weight: bold;
+  font-size: 19px;
 }
 
 .phone-contact:hover{

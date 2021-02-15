@@ -1,6 +1,12 @@
-import React from 'react';
+import React, { FC, ReactElement } from 'react';
+import LockIcon from '../../assets/images/candado.png';
+import CamionIcon from '../../assets/images/camion.png';
+import BoxIcon from '../../assets/images/box.png';
+import WatchIcon from '../../assets/images/watch.png';
+import TimeIcon from '../../assets/images/time.png';
+import CheckIcon from '../../assets/images/check.png';
 
-const ListadoServicios = () => {
+const ListadoServicios: FC = (): ReactElement => {
   return (
     <>
       <section>
@@ -11,8 +17,7 @@ const ListadoServicios = () => {
                 <h2>Beneficios</h2>
                 <p>
                   Acá te contaremos algunos de los beneficios que obtendrás al
-                  contratar tu trasteo o acarreo con nosotros, ten en cuenta que
-                  cada uno de ellos
+                  contratar tu trasteo o acarreo con nosotros:
                 </p>
               </div>
             </div>
@@ -26,10 +31,7 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img
-                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/lock_kro6ji.png"
-                      alt="icon-seguros"
-                    />
+                    <img src={LockIcon} alt="icon-seguros" />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Tus elementos seguros</h4>
@@ -51,10 +53,7 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img
-                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/truck_rw6oab.png"
-                      alt="icon-modernos"
-                    />
+                    <img src={CamionIcon} alt="icon-modernos" />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Vehículos modernos</h4>
@@ -75,10 +74,7 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img
-                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712698/trasteosbaratos/box_mizaqp.png"
-                      alt="icon-espacio-vehiculos"
-                    />
+                    <img src={BoxIcon} alt="icon-espacio-vehiculos" />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Vehículos con espacio apropiado</h4>
@@ -100,10 +96,7 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img
-                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712698/trasteosbaratos/watch_s9bn87.png"
-                      alt="icon-disponibilidad"
-                    />
+                    <img src={WatchIcon} alt="icon-disponibilidad" />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Disponibilidad</h4>
@@ -125,10 +118,7 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img
-                      src="https://res.cloudinary.com/dupegtamn/image/upload/v1611712698/trasteosbaratos/music_swrml4.png"
-                      alt="icon-flexibilidad"
-                    />
+                    <img src={TimeIcon} alt="icon-flexibilidad" />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Flexibilidad</h4>
@@ -149,10 +139,7 @@ const ListadoServicios = () => {
               >
                 <div className="large-features-2-item">
                   <div className="large-features-2-icon">
-                    <img
-                      src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,w_300/v1611712592/trasteosbaratos/lock_kro6ji.png"
-                      alt="icon-seguridad"
-                    />
+                    <img src={CheckIcon} alt="icon-seguridad" />
                   </div>
                   <div className="large-features-2-content">
                     <h4>Seguridad</h4>

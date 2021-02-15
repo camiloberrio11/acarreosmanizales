@@ -1,4 +1,6 @@
 import React from 'react';
+import MailIcon from '../../assets/images/mail.png';
+import CallIcon from '../../assets/images/llamada.png';
 import './bannercontacto.css';
 
 const BannerContacto = () => {
@@ -59,7 +61,7 @@ const BannerContacto = () => {
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
                   <img
-                    src="https://res.cloudinary.com/dupegtamn/image/upload/v1611711616/trasteosbaratos/call_ga301n.png"
+                    src={CallIcon}
                     className="img-fluid mx-auto"
                     alt="icon-llamada"
                   />
@@ -82,7 +84,7 @@ const BannerContacto = () => {
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
                   <img
-                    src="https://res.cloudinary.com/dupegtamn/image/upload/v1611711754/trasteosbaratos/mail_q3dh7o.png"
+                    src={MailIcon}
                     className="img-fluid mx-auto"
                     alt="icon-correo"
                   />
