@@ -13,9 +13,8 @@ const BannerContacto = () => {
               <div className="sec-heading light mx-auto">
                 <h2>Contáctanos ya</h2>
                 <p>
-                  Que estas esperando para realizar tu trasteo/acarreo de una
-                  forma segura y con la mayor confiabilidad del mercado,
-                  contáctanos y te daremos toda la información.
+                  Que estas esperando para realizar tu trasteo/acarreo de una forma segura y con la
+                  mayor confiabilidad del mercado, contáctanos y te daremos toda la información.
                 </p>
               </div>
             </div>
@@ -46,7 +45,7 @@ const BannerContacto = () => {
                 <div className="partner-box-caption">
                   <h5>Whatsapp</h5>
                   <a
-                    href="http://wa.me/+573165373150?text=Hola, buen día! Estoy pendiente de realizar un acarreo y quisiera recibir más información. Gracias"
+                    href="http://wa.me/+573186234572?text=Hola, buen día! Estoy pendiente de realizar un acarreo y quisiera recibir más información. Gracias"
                     target="_blank"
                     rel="noreferrer"
                     className="partner-info"
@@ -60,16 +59,12 @@ const BannerContacto = () => {
             <div className="col-lg-4 col-md-4 col-sm-6">
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
-                  <img
-                    src={CallIcon}
-                    className="img-fluid mx-auto"
-                    alt="icon-llamada"
-                  />
+                  <img src={CallIcon} className="img-fluid mx-auto" alt="icon-llamada" />
                 </div>
                 <div className="partner-box-caption">
                   <h5>Llamada</h5>
                   <a
-                    href="tel:+573165373150"
+                    href="tel:+573186234572"
                     target="_blank"
                     rel="noreferrer"
                     className="partner-info"
@@ -83,11 +78,7 @@ const BannerContacto = () => {
             <div className="col-lg-4 col-md-4 col-sm-6">
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
-                  <img
-                    src={MailIcon}
-                    className="img-fluid mx-auto"
-                    alt="icon-correo"
-                  />
+                  <img src={MailIcon} className="img-fluid mx-auto" alt="icon-correo" />
                 </div>
                 <div className="partner-box-caption">
                   <h5>Email</h5>

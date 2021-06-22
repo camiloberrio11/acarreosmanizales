@@ -14,29 +14,17 @@ const Footer = () => {
                   <h4 className="widget-title">Contacto</h4>
                   <ul className="footer-menu">
                     <li>
-                      <a
-                        href="http://wa.me/+573165373150"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
+                      <a href="http://wa.me/+573186234572" target="_blank" rel="noreferrer">
                         Whatsapp
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="tel:+573165373150"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
+                      <a href="tel:+573186234572" target="_blank" rel="noreferrer">
                         Llamar
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="mailto:camiloberriouribe@gmail.com"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
+                      <a href="mailto:camiloberriouribe@gmail.com" target="_blank" rel="noreferrer">
                         Correo
                       </a>
                     </li>
@@ -48,8 +36,8 @@ const Footer = () => {
                 <div className="footer-widget">
                   <h4 className="widget-title">Acarreos Manizales</h4>
                   <p>Manizales, Colombia</p>
-                  <p>williamcastro.mudanza@gmail.com</p> 
-                  <p>+57 3165373150</p>
+                  <p>williamcastro.mudanza@gmail.com</p>
+                  <p>+57 3186234572</p>
                 </div>
               </div>
 
