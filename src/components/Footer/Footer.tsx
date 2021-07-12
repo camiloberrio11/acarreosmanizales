@@ -24,7 +24,11 @@ const Footer = () => {
                       </a>
                     </li>
                     <li>
-                      <a href="mailto:camiloberriouribe@gmail.com" target="_blank" rel="noreferrer">
+                      <a
+                        href="mailto:acarreosmanizales.com@gmail.com"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
                         Correo
                       </a>
                     </li>
@@ -37,7 +41,7 @@ const Footer = () => {
                   <h4 className="widget-title">Acarreos Manizales</h4>
                   <p>Manizales, Colombia</p>
                   <p>williamcastro.mudanza@gmail.com</p>
-                  <p>+57 3186234572</p>
+                  <p>+57 321 552 4272</p>
                 </div>
               </div>
 
@@ -46,12 +50,12 @@ const Footer = () => {
                   <h4 className="widget-title">Síguenos</h4>
                   <ul className="footer-bottom-social">
                     <li>
-                      <a href="#!">
+                      <a href="https://www.facebook.com/AcarreosMnz/?ref=pages_you_manage" target="_blank" rel="noreferrer">
                         <i className="fa fa-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#!">
+                    <a href="https://www.instagram.com/acarreosmanizales/" target="_blank" rel="noreferrer">
                         <i className="fa fa-instagram"></i>
                       </a>
                     </li>

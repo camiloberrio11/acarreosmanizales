@@ -83,7 +83,7 @@ const BannerContacto = () => {
                 <div className="partner-box-caption">
                   <h5>Email</h5>
                   <a
-                    href="mailto:camiloberriouribe@gmail.com"
+                    href="mailto:acarreosmanizales.com@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                     className="partner-info"
