@@ -14,6 +14,30 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
     />
     <title>Trasteos Manizales | Acarreos</title>
+
+    <!-- Global site tag (gtag.js) - Google Ads: 834206033 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-834206033"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'AW-834206033');
+    </script>
+
+    <!-- Event snippet for 10 Llamada Acarreos En Manizales conversion page -->
+    <script>
+      window.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('a[href*="tel:"]').forEach(function (tel) {
+          tel.addEventListener('click', function () {
+            console.log('telefono ok ok');
+            gtag('event', 'conversion', { send_to: 'AW-834206033/eVkFCPG_gtEDENHy440D' });
+          });
+        });
+      });
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
